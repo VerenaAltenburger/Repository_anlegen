@@ -1,0 +1,13 @@
+Git Repository
+
+site github: New Repository (Add README, .gitignore)
+	     Copier Code (http://....)
+
+Ordinateur: créer dossier
+
+Terminal: se diriger dans le dossier (cd pour se déplacer dans un dossier) (cd .. pour revenir en arrière)
+	  git clone http://...
+	  git add . (si on a créé des fichiers)
+	  git commit -m [message]
+	  git push 
+
